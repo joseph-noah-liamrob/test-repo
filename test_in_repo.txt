@@ -1,3 +1,5 @@
-Fist time on Git.
+First time on Git.
 2nd time to commit and push.
+3rd time to commit and push.
+
 
